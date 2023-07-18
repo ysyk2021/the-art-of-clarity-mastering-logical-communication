@@ -8,5 +8,4 @@ The book encompasses chapters that dive into the importance of logical communica
 
 Whether you are a beginner or an experienced communicator, this book will provide you with the tools to enhance your communication skills and achieve success in both your personal and business life. It is a must-read for anyone who wants to improve their interpersonal communication skills and develop the art of clarity. Let's dive in and begin our journey towards mastering logical communication!
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
