@@ -1,0 +1,1 @@
+for the book "the art of clarity mastering logical communication", write a chapter: "explanation of the importance of logical communication in personal and professional contexts".  Use Markdown format. Use English.

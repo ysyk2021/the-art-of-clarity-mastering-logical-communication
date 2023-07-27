@@ -1,0 +1,1 @@
+for the book "the art of clarity mastering logical communication", write a chapter: "overview of the benefits of mastering the art of clarity".  Use Markdown format. Use English.
