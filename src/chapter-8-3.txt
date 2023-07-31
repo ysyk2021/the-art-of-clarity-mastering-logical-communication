@@ -1,1 +1,0 @@
-for the book "the art of clarity mastering logical communication", write a chapter: "strategies for creating compelling presentations and written documents".  Use Markdown format. Use English.

@@ -3,7 +3,6 @@
 - [Introduction](README.md)
   - [Explanation of the importance of logical communication in personal and professional contexts](chapter-1-1.md)
   - [Overview of the benefits of mastering the art of clarity](chapter-1-2.md)
-  - [Brief on how the book will help readers develop effective strategies for communicating logically and clearly](chapter-1-3.md)
 - [Chapter 1: Understanding the Fundamentals of Logical Communication](chapter-2.md)
   - [Understanding the fundamentals of logical communication and its impact on personal and professional relationships](chapter-2-1.md)
   - [Techniques for cultivating a mindset towards logical communication](chapter-2-2.md)

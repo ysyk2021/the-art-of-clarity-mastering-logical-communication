@@ -37,5 +37,3 @@ MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. H
 19. Conflict resolution
 20. Negotiation skills
 
-These keywords will help potential readers find the book on Amazon and discover related books on the topic of communication and personal development.
-

@@ -1,1 +1,0 @@
-for the book "the art of clarity mastering logical communication", write a chapter: "the challenges and obstacles that can arise when seeking to communicate logically and clearly".  Use Markdown format. Use English.

@@ -1,1 +1,0 @@
-for the book "the art of clarity mastering logical communication", write a chapter: "techniques for developing a plan that integrates logical communication principles".  Use Markdown format. Use English.
