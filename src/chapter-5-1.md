@@ -1,5 +1,3 @@
-The Importance of an Actionable Plan in Achieving Logical Communication
-===========================================================================================================================================
 
 In this chapter, we will explore the importance of developing an actionable plan for achieving logical communication. By understanding the benefits of having a plan, as well as the key elements that make up an effective plan, you can increase your chances of success in any communication endeavor.
 

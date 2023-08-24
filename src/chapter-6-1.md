@@ -1,5 +1,3 @@
-The Role of Logic in Improving Communication Effectiveness
-=====================================================================
 
 Logic plays a crucial role in improving communication effectiveness. In this chapter, we explore how applying logical principles can enhance clarity and comprehension in communication.
 

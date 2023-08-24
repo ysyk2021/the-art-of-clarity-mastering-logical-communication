@@ -1,5 +1,3 @@
-Chapter 5: Leveraging Logic to Improve Communication Effectiveness
-==================================================================
 
 Logic is an essential tool for improving communication effectiveness. In this chapter, we will explore the role of logic in improving communication effectiveness, techniques for using logic to structure arguments and support claims, and strategies for responding to counterarguments and addressing potential objections.
 

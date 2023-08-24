@@ -1,5 +1,3 @@
-Strategies for Setting Specific, Measurable, Achievable, Relevant, and Time-Bound (SMART) Goals and Breaking Down Large Goals into Smaller Steps
-====================================================================================================================================================================================================================
 
 In this chapter, we will discuss strategies for developing an actionable plan for logical communication. We will explore the concept of SMART goals and provide practical tips for setting specific, measurable, achievable, relevant, and time-bound goals. We will also discuss how to break down large goals into smaller steps to make them more manageable.
 

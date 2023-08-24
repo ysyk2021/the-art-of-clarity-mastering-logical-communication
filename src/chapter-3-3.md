@@ -1,5 +1,3 @@
-Strategies for Analyzing Past Successes and Failures to Inform Future Approaches
-==========================================================================================================================================
 
 Effective communication requires a deep understanding of one's current strengths and weaknesses as a communicator. To improve our communication skills, we must first assess our current approach to communication, including both past successes and failures. In this chapter, we will explore strategies for assessing our current communication skills and developing a plan to improve them.
 

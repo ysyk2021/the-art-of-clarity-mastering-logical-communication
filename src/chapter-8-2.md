@@ -1,5 +1,3 @@
-Techniques for using language, visuals, and other resources to enhance communication effectiveness
-=======================================================================================================================================================================
 
 In this chapter, we will explore essential tools and techniques for logical communication. By understanding how to use language, visuals, and other resources effectively, you can enhance your communication effectiveness and achieve better outcomes in your interactions with others.
 
